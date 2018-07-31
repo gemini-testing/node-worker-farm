@@ -1,5 +1,5 @@
 {
-  "name": "forker-farm",
+  "name": "@gemini-testing/worker-farm",
   "description": "worker farm fork",
   "version": "1.6.0",
   "homepage": "https://github.com/gemini-testing/node-worker-farm",

@@ -3,7 +3,7 @@
 [![NPM](https://nodei.co/npm/worker-farm.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/worker-farm/) [![NPM](https://nodei.co/npm-dl/worker-farm.png?months=6&height=3)](https://nodei.co/npm/worker-farm/)
 
 ## Note
-This is a fork of worker-farm module and it is available in npm as <strong>forker-farm</strong>
+This is a fork of worker-farm module and it is available in npm as <strong>@gemini-testing/worker-farm</strong>
 
 
 Distribute processing tasks to child processes with an über-simple API and baked-in durability & custom concurrency options. *Available in npm as <strong>worker-farm</strong>*.
